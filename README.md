@@ -24,7 +24,7 @@
 
 <br>
 
-# About Me
+<h1 align="center">About Me</h1>
 
 ```bash
 [root@datacenter ~]# whoami
@@ -45,22 +45,26 @@ Infrastructure & Cybersecurity Specialist
 
 <br>
 
-# Professional Focus
+<h1 align="center">Professional Focus</h1>
 
-• Administração de infraestrutura corporativa  
-• Soluções de backup enterprise  
-• Virtualização e ambientes críticos  
-• Monitoramento e suporte técnico remoto  
-• Redes corporativas e troubleshooting  
-• Cloud, Datacenter e Disaster Recovery  
-• Cybersegurança e hardening de ambientes  
-• Administração Linux e Windows Server  
+<div align="center">
+
+Administração de infraestrutura corporativa  
+Soluções de backup enterprise  
+Virtualização e ambientes críticos  
+Monitoramento e suporte técnico remoto  
+Redes corporativas e troubleshooting  
+Cloud, Datacenter e Disaster Recovery  
+Cybersegurança e hardening de ambientes  
+Administração Linux e Windows Server  
+
+</div>
 
 <br>
 
-# Enterprise Backup Stack
+<h1 align="center">Enterprise Backup Stack</h1>
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/Bacula-161B22?style=for-the-badge&logo=buffer&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/Veeam-161B22?style=for-the-badge&logo=veritas&logoColor=39FF14"/>
@@ -71,9 +75,9 @@ Infrastructure & Cybersecurity Specialist
 
 <br>
 
-# Virtualization & Servers
+<h1 align="center">Virtualization & Servers</h1>
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/Proxmox-161B22?style=for-the-badge&logo=proxmox&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/Hyper--V-161B22?style=for-the-badge&logo=windows&logoColor=39FF14"/>
@@ -85,9 +89,9 @@ Infrastructure & Cybersecurity Specialist
 
 <br>
 
-# Infrastructure & Networking
+<h1 align="center">Infrastructure & Networking</h1>
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/Mikrotik-161B22?style=for-the-badge&logo=mikrotik&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/VPN-161B22?style=for-the-badge&logo=wireguard&logoColor=39FF14"/>
@@ -99,16 +103,20 @@ Infrastructure & Cybersecurity Specialist
 
 <br>
 
-# Certifications & Learning
+<h1 align="center">Certifications & Learning</h1>
+
+<div align="center">
 
 Cisco Networking Academy — Introduction to Cybersecurity  
 Cisco Networking Academy — Networking Learn-A-Thon 2025  
 Acronis — Intro to Cyber Protect Cloud  
 Acronis — BDR Basic Course  
 
+</div>
+
 <br>
 
-# Analytics
+<h1 align="center">Analytics</h1>
 
 <p align="center">
 
@@ -120,7 +128,7 @@ Acronis — BDR Basic Course
 
 <br>
 
-# Bacula Enterprise Console
+<h1 align="center">Bacula Enterprise Console</h1>
 
 <div align="center">
 
@@ -130,7 +138,7 @@ Acronis — BDR Basic Course
 
 <br>
 
-# Contact
+<h1 align="center">Contact</h1>
 
 <p align="center">
 
