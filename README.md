@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Tyler Canto
+#  Tyler Canto
 
 ### Infrastructure • Backup • Datacenter • Cybersecurity
 
@@ -16,7 +16,7 @@
 
 <br>
 
-# 👨‍💻 About Me
+#  About Me
 
 ```bash
 [root@datacenter ~]# whoami
@@ -36,7 +36,7 @@ Infrastructure & Cybersecurity Specialist
 
 <br>
 
-# 🚀 Professional Focus
+#  Professional Focus
 
 💠 Administração de infraestrutura corporativa  
 💠 Soluções de backup enterprise  
@@ -48,7 +48,7 @@ Infrastructure & Cybersecurity Specialist
 
 <br>
 
-# 💾 Enterprise Backup Stack
+#  Enterprise Backup Stack
 
 <p align="left">
 
@@ -61,7 +61,7 @@ Infrastructure & Cybersecurity Specialist
 
 <br>
 
-# 🖥️ Virtualization & Servers
+#  Virtualization & Servers
 
 <p align="left">
 
@@ -75,7 +75,7 @@ Infrastructure & Cybersecurity Specialist
 
 <br>
 
-# 🌐 Infrastructure & Networking
+#  Infrastructure & Networking
 
 <p align="left">
 
@@ -89,7 +89,7 @@ Infrastructure & Cybersecurity Specialist
 
 <br>
 
-# 🧠 Certifications & Learning
+#  Certifications & Learning
 
 📜 Cisco Networking Academy — Introduction to Cybersecurity  
 📜 Cisco Networking Academy — Networking Learn-A-Thon 2025  
@@ -98,7 +98,7 @@ Infrastructure & Cybersecurity Specialist
 
 <br>
 
-# 📊 Analytics
+#  Analytics
 
 <p align="center">
 
@@ -110,7 +110,7 @@ Infrastructure & Cybersecurity Specialist
 
 <br>
 
-# 💻 Bacula Enterprise Console
+#  Bacula Enterprise Console
 
 <div align="center">
 
