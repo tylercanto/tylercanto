@@ -45,20 +45,16 @@ Infrastructure & Cybersecurity Specialist
 
 <br>
 
-<h1 align="center">Professional Focus</h1>
+# Professional Focus
 
-<div align="center">
-
-Administração de infraestrutura corporativa  
-Soluções de backup enterprise  
-Virtualização e ambientes críticos  
-Monitoramento e suporte técnico remoto  
-Redes corporativas e troubleshooting  
-Cloud, Datacenter e Disaster Recovery  
-Cybersegurança e hardening de ambientes  
-Administração Linux e Windows Server  
-
-</div>
+• Administração de infraestrutura corporativa  
+• Soluções de backup enterprise  
+• Virtualização e ambientes críticos  
+• Monitoramento e suporte técnico remoto  
+• Redes corporativas e troubleshooting  
+• Cloud, Datacenter e Disaster Recovery  
+• Cybersegurança e hardening de ambientes  
+• Administração Linux e Windows Server  
 
 <br>
 
@@ -103,16 +99,12 @@ Administração Linux e Windows Server
 
 <br>
 
-<h1 align="center">Certifications & Learning</h1>
-
-<div align="center">
+# Certifications & Learning
 
 Cisco Networking Academy — Introduction to Cybersecurity  
 Cisco Networking Academy — Networking Learn-A-Thon 2025  
 Acronis — Intro to Cyber Protect Cloud  
 Acronis — BDR Basic Course  
-
-</div>
 
 <br>
 
@@ -128,7 +120,7 @@ Acronis — BDR Basic Course
 
 <br>
 
-<h1 align="center">Bacula Enterprise Console</h1>
+# Bacula Enterprise Console
 
 <div align="center">
 
