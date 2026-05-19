@@ -122,11 +122,7 @@ Acronis — BDR Basic Course
 
 # Bacula Enterprise Console
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&width=1100&height=240&lines=%5Broot%40backup-server%5D%23+bconsole;Connecting+to+Bacula+Director+10.0.0.15;1000+OK%3A+bacula-dir+Version+13.0.3;Running+Jobs%3A;BackupServer+Job+terminated+successfully;VM-Proxmox+Backup+OK;HyperV-Cluster+Backup+OK;Storage+mounted+successfully;All+enterprise+backups+completed" />
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=39FF14&center=false&vCenter=true&multiline=true&width=1100&height=240&lines=%5Broot%40backup-server%5D%23+bconsole;Connecting+to+Bacula+Director+10.0.0.15;1000+OK%3A+bacula-dir+Version+13.0.3;Running+Jobs%3A;BackupServer+Job+terminated+successfully;VM-Proxmox+Backup+OK;HyperV-Cluster+Backup+OK;Storage+mounted+successfully;All+enterprise+backups+completed" />
 
 <br>
 
