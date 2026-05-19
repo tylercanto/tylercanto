@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Tyler Canto
+#  Tyler Canto
 
 ### Infrastructure • Backup • Datacenter • Cybersecurity
 
@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://tyler-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/🚀_PORTFÓLIO-39FF14?style=for-the-badge&logo=vercel&logoColor=black"/>
+<img src="https://img.shields.io/badge/_PORTFÓLIO-39FF14?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tyler-canto/">
