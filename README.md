@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Tyler Canto
+# 👨‍💻 Tyler Canto
 
 ### Infrastructure • Backup • Datacenter • Cybersecurity
 
@@ -8,15 +8,23 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Infrastructure-0D1117?style=for-the-badge&logo=datadog&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/CyberSecurity-0D1117?style=for-the-badge&logo=hackaday&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/Enterprise_Backup-0D1117?style=for-the-badge&logo=serverfault&logoColor=39FF14"/>
+<a href="https://tyler-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/🚀_PORTFÓLIO-39FF14?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tyler-canto/">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
+</a>
+
+<a href="mailto:tylercanto23@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14"/>
+</a>
 
 </div>
 
 <br>
 
-#  About Me
+# 👨‍💻 About Me
 
 ```bash
 [root@datacenter ~]# whoami
@@ -32,11 +40,12 @@ Infrastructure & Cybersecurity Specialist
 ✔ Linux & Windows Servers
 ✔ Remote Technical Support
 ✔ Cybersecurity & Monitoring
+✔ Cloud & Datacenter Operations
 ```
 
 <br>
 
-#  Professional Focus
+# 🚀 Professional Focus
 
 💠 Administração de infraestrutura corporativa  
 💠 Soluções de backup enterprise  
@@ -45,10 +54,11 @@ Infrastructure & Cybersecurity Specialist
 💠 Redes corporativas e troubleshooting  
 💠 Cloud, Datacenter e Disaster Recovery  
 💠 Cybersegurança e hardening de ambientes  
+💠 Administração Linux e Windows Server  
 
 <br>
 
-#  Enterprise Backup Stack
+# 💾 Enterprise Backup Stack
 
 <p align="left">
 
@@ -61,7 +71,7 @@ Infrastructure & Cybersecurity Specialist
 
 <br>
 
-#  Virtualization & Servers
+# 🖥️ Virtualization & Servers
 
 <p align="left">
 
@@ -75,7 +85,7 @@ Infrastructure & Cybersecurity Specialist
 
 <br>
 
-#  Infrastructure & Networking
+# 🌐 Infrastructure & Networking
 
 <p align="left">
 
@@ -89,7 +99,7 @@ Infrastructure & Cybersecurity Specialist
 
 <br>
 
-#  Certifications & Learning
+# 🧠 Certifications & Learning
 
 📜 Cisco Networking Academy — Introduction to Cybersecurity  
 📜 Cisco Networking Academy — Networking Learn-A-Thon 2025  
@@ -98,7 +108,7 @@ Infrastructure & Cybersecurity Specialist
 
 <br>
 
-#  Analytics
+# 📊 Analytics
 
 <p align="center">
 
@@ -110,7 +120,7 @@ Infrastructure & Cybersecurity Specialist
 
 <br>
 
-#  Bacula Enterprise Console
+# 💻 Bacula Enterprise Console
 
 <div align="center">
 
@@ -130,6 +140,10 @@ Infrastructure & Cybersecurity Specialist
 
 <a href="https://www.linkedin.com/in/tyler-canto/">
 <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
+</a>
+
+<a href="https://wa.me/553799121749">
+<img src="https://img.shields.io/badge/WhatsApp-161B22?style=for-the-badge&logo=whatsapp&logoColor=39FF14"/>
 </a>
 
 </p>
