@@ -1,55 +1,77 @@
 <div align="center">
 
-# 👨‍💻 Tyler Canto
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&color=39FF14&center=true&vCenter=true&width=1000&lines=Tyler+Canto;Infrastructure+%26+Cybersecurity+Specialist;Backup+%7C+Cloud+%7C+Datacenter;Linux+%7C+Virtualization+%7C+Networks" />
 
-### Infrastructure • Backup • Datacenter • Cybersecurity
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=39FF14&center=true&vCenter=true&width=900&lines=Infrastructure+%26+Cybersecurity+Specialist;Backup+%7C+Cloud+%7C+Datacenter;Linux+%7C+Networks+%7C+Virtualization" />
+<img src="https://img.shields.io/badge/Infrastructure-0D1117?style=for-the-badge&logo=datadog&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/CyberSecurity-0D1117?style=for-the-badge&logo=hackaday&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Enterprise_Backup-0D1117?style=for-the-badge&logo=serverfault&logoColor=39FF14"/>
 
 </div>
 
-<br>
+---
 
-## 🚀 About
+# 👨‍💻 About Me
 
-💠 Infraestrutura Corporativa  
-💠 Backup & Disaster Recovery  
-💠 Virtualização e Datacenter  
-💠 Redes e Cybersegurança  
-💠 Linux & Windows Servers  
-💠 Suporte Técnico Remoto  
-💠 Cloud & Data Center  
+```bash
+[root@datacenter ~]# whoami
 
-<br>
+Tyler Canto
+Infrastructure & Cybersecurity Specialist
 
-## ⚡ Enterprise Stack
+✔ Enterprise Infrastructure
+✔ Backup & Disaster Recovery
+✔ Datacenter Operations
+✔ Network Infrastructure
+✔ Virtualization
+✔ Linux & Windows Servers
+✔ Remote Technical Support
+✔ Cybersecurity & Monitoring
+```
 
-### 💾 Backup & Recovery
+---
+
+# 🚀 Professional Focus
+
+💠 Administração de infraestrutura corporativa  
+💠 Soluções de backup enterprise  
+💠 Virtualização e ambientes críticos  
+💠 Monitoramento e suporte técnico remoto  
+💠 Redes corporativas e troubleshooting  
+💠 Cloud, Datacenter e Disaster Recovery  
+💠 Cybersegurança e hardening de ambientes  
+
+---
+
+# 💾 Enterprise Backup Stack
 
 <p align="left">
 
 <img src="https://img.shields.io/badge/Bacula-161B22?style=for-the-badge&logo=buffer&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/Veeam-161B22?style=for-the-badge&logo=veritas&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/Acronis-161B22?style=for-the-badge&logo=atom&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Disaster_Recovery-161B22?style=for-the-badge&logo=databricks&logoColor=39FF14"/>
 
 </p>
 
-<br>
+---
 
-### 🖥️ Virtualization & Servers
+# 🖥️ Virtualization & Servers
 
 <p align="left">
 
 <img src="https://img.shields.io/badge/Proxmox-161B22?style=for-the-badge&logo=proxmox&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/Hyper--V-161B22?style=for-the-badge&logo=windows&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Windows_Server-161B22?style=for-the-badge&logo=windows&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=39FF14"/>
 
 </p>
 
-<br>
+---
 
-### 🌐 Infrastructure & Networks
+# 🌐 Infrastructure & Networking
 
 <p align="left">
 
@@ -57,12 +79,22 @@
 <img src="https://img.shields.io/badge/VPN-161B22?style=for-the-badge&logo=wireguard&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/Firewall-161B22?style=for-the-badge&logo=pfsense&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/Datacenter-161B22?style=for-the-badge&logo=serverfault&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Cloud-161B22?style=for-the-badge&logo=icloud&logoColor=39FF14"/>
 
 </p>
 
-<br>
+---
 
-## 📊 Analytics
+# 🧠 Certifications & Learning
+
+📜 Cisco Networking Academy — Introduction to Cybersecurity  
+📜 Cisco Networking Academy — Networking Learn-A-Thon 2025  
+📜 Acronis — Intro to Cyber Protect Cloud  
+📜 Acronis — BDR Basic Course  
+
+---
+
+# 📊 Analytics
 
 <p align="center">
 
@@ -72,9 +104,19 @@
 
 </p>
 
-<br>
+---
 
-## 🌎 Contact
+# 💻 Bacula Enterprise Console
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&width=1100&height=240&lines=%5Broot%40backup-server%5D%23+bconsole;Connecting+to+Bacula+Director+10.0.0.15;1000+OK%3A+bacula-dir+Version+13.0.3;Running+Jobs%3A;BackupServer+Job+terminated+successfully;VM-Proxmox+Backup+OK;HyperV-Cluster+Backup+OK;Storage+mounted+successfully;All+enterprise+backups+completed" />
+
+</div>
+
+---
+
+# 🌎 Contact
 
 <p align="center">
 
@@ -88,17 +130,7 @@
 
 </p>
 
-<br>
-
-## 💻 Bacula Console
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&width=1000&height=220&lines=%5Broot%40datacenter%5D%23+bconsole;Connecting+to+Bacula+Director+10.0.0.15;1000+OK%3A+bacula-dir+Version+13.0.3;Running+Jobs%3A;BackupServer+Job+terminated+successfully;VM-Proxmox+Backup+OK;HyperV-Cluster+Backup+OK;Storage+mounted+successfully" />
-
-</div>
-
-<br>
+---
 
 <div align="center">
 
