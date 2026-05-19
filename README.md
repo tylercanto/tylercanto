@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&color=39FF14&center=true&vCenter=true&width=1000&lines=Tyler+Canto;Infrastructure+%26+Cybersecurity+Specialist;Backup+%7C+Cloud+%7C+Datacenter;Linux+%7C+Virtualization+%7C+Networks" />
+# 👨‍💻 Tyler Canto
+
+### Infrastructure • Backup • Datacenter • Cybersecurity
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&color=39FF14&center=true&vCenter=true&width=1000&lines=Infrastructure+%26+Cybersecurity+Specialist;Backup+%7C+Cloud+%7C+Datacenter;Linux+%7C+Virtualization+%7C+Networks" />
 
 <br>
 
@@ -10,7 +14,7 @@
 
 </div>
 
----
+<br>
 
 # 👨‍💻 About Me
 
@@ -30,7 +34,7 @@ Infrastructure & Cybersecurity Specialist
 ✔ Cybersecurity & Monitoring
 ```
 
----
+<br>
 
 # 🚀 Professional Focus
 
@@ -42,7 +46,7 @@ Infrastructure & Cybersecurity Specialist
 💠 Cloud, Datacenter e Disaster Recovery  
 💠 Cybersegurança e hardening de ambientes  
 
----
+<br>
 
 # 💾 Enterprise Backup Stack
 
@@ -55,7 +59,7 @@ Infrastructure & Cybersecurity Specialist
 
 </p>
 
----
+<br>
 
 # 🖥️ Virtualization & Servers
 
@@ -69,7 +73,7 @@ Infrastructure & Cybersecurity Specialist
 
 </p>
 
----
+<br>
 
 # 🌐 Infrastructure & Networking
 
@@ -83,7 +87,7 @@ Infrastructure & Cybersecurity Specialist
 
 </p>
 
----
+<br>
 
 # 🧠 Certifications & Learning
 
@@ -92,7 +96,7 @@ Infrastructure & Cybersecurity Specialist
 📜 Acronis — Intro to Cyber Protect Cloud  
 📜 Acronis — BDR Basic Course  
 
----
+<br>
 
 # 📊 Analytics
 
@@ -104,7 +108,7 @@ Infrastructure & Cybersecurity Specialist
 
 </p>
 
----
+<br>
 
 # 💻 Bacula Enterprise Console
 
@@ -114,7 +118,7 @@ Infrastructure & Cybersecurity Specialist
 
 </div>
 
----
+<br>
 
 # 🌎 Contact
 
@@ -129,11 +133,3 @@ Infrastructure & Cybersecurity Specialist
 </a>
 
 </p>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:39FF14&height=2"/>
-
-</div>
