@@ -108,6 +108,64 @@ Acronis — BDR Basic Course
 
 <br>
 
+<h1 align="center">Certification Badges</h1>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Cisco-Cybersecurity-161B22?style=for-the-badge&logo=cisco&logoColor=39FF14"/>
+
+<img src="https://img.shields.io/badge/Cisco-Networking-161B22?style=for-the-badge&logo=cisco&logoColor=39FF14"/>
+
+<img src="https://img.shields.io/badge/Acronis-Cyber_Protect-161B22?style=for-the-badge&logo=acronis&logoColor=39FF14"/>
+
+<img src="https://img.shields.io/badge/Veeam-Backup-161B22?style=for-the-badge&logo=veeam&logoColor=39FF14"/>
+
+<img src="https://img.shields.io/badge/Linux-Administration-161B22?style=for-the-badge&logo=linux&logoColor=39FF14"/>
+
+</p>
+
+<br>
+
+<h1 align="center">Projects / Labs</h1>
+
+```bash
+[LAB-01] Enterprise Backup Infrastructure
+├── Bacula Backup Server
+├── Incremental & Differential Jobs
+├── Remote Storage
+└── Disaster Recovery Validation
+
+[LAB-02] Virtualization Environment
+├── Proxmox VE Cluster
+├── Hyper-V Virtual Machines
+├── Linux Containers
+└── Network Segmentation
+
+[LAB-03] Cybersecurity & Monitoring
+├── VPN Infrastructure
+├── Firewall Hardening
+├── Network Monitoring
+└── Remote Access Security
+```
+
+<br>
+
+<h1 align="center">Infrastructure Status</h1>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Datacenter-ONLINE-161B22?style=for-the-badge&logo=serverfault&logoColor=39FF14"/>
+
+<img src="https://img.shields.io/badge/Backups-HEALTHY-161B22?style=for-the-badge&logo=buffer&logoColor=39FF14"/>
+
+<img src="https://img.shields.io/badge/VPN-STABLE-161B22?style=for-the-badge&logo=wireguard&logoColor=39FF14"/>
+
+<img src="https://img.shields.io/badge/Firewall-SECURED-161B22?style=for-the-badge&logo=pfsense&logoColor=39FF14"/>
+
+</p>
+
+<br>
+
 <h1 align="center">Analytics</h1>
 
 <p align="center">
@@ -123,6 +181,23 @@ Acronis — BDR Basic Course
 # Bacula Enterprise Console
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=39FF14&center=false&vCenter=true&multiline=true&width=1100&height=240&lines=%5Broot%40backup-server%5D%23+bconsole;Connecting+to+Bacula+Director+10.0.0.15;1000+OK%3A+bacula-dir+Version+13.0.3;Running+Jobs%3A;BackupServer+Job+terminated+successfully;VM-Proxmox+Backup+OK;HyperV-Cluster+Backup+OK;Storage+mounted+successfully;All+enterprise+backups+completed" />
+
+<br>
+
+<h1 align="center">Interactive Terminal</h1>
+
+```bash
+[root@portfolio ~]# ./start-terminal.sh
+
+Initializing Infrastructure Environment...
+Loading Backup Modules...
+Loading Monitoring Services...
+Connecting Secure VPN...
+Mounting Datacenter Storage...
+System Status: OPERATIONAL
+
+root@portfolio:~#
+```
 
 <br>
 
