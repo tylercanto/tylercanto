@@ -1,146 +1,79 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Tyler+Canto;Infrastructure+%26+Cybersecurity+Specialist;Backup+%7C+Cloud+%7C+Datacenter+%7C+Virtualization" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Tyler+Canto;Infrastructure+%26+Cybersecurity;Backup+%7C+Cloud+%7C+Datacenter" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Infrastructure-0f172a?style=for-the-badge&logo=datadog&logoColor=00F7FF&labelColor=020617" />
+<img src="https://img.shields.io/badge/CyberSecurity-0f172a?style=for-the-badge&logo=hackaday&logoColor=00F7FF&labelColor=020617" />
+<img src="https://img.shields.io/badge/Enterprise-Backup-0f172a?style=for-the-badge&logo=serverfault&logoColor=00F7FF&labelColor=020617" />
+
+</div>
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ffcc?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/FOCUS-INFRASTRUCTURE-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CYBERSECURITY-ENTERPRISE-red?style=for-the-badge" />
-
-</div>
-
----
-
-# 👨‍💻 About Me
+# 👨‍💻 About
 
 ```bash
-> whoami
-
 Tyler Canto
 Infrastructure & Cybersecurity Specialist
-
-✔ Remote Technical Support
-✔ Enterprise Backup Solutions
-✔ Virtualization & Datacenter
-✔ Linux & Windows Servers
-✔ Network Infrastructure
-✔ Disaster Recovery
-✔ Help Desk & Monitoring
-✔ Cloud & Cybersecurity
 ```
 
----
+💠 Suporte técnico remoto  
+💠 Infraestrutura corporativa  
+💠 Backup & Disaster Recovery  
+💠 Virtualização e Datacenter  
+💠 Redes e Cybersegurança  
 
-# 🚀 Enterprise Stack
+<br>
 
-<div align="center">
-
-## 💾 Backup & Disaster Recovery
-
-<img src="https://img.shields.io/badge/Bacula-Enterprise-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Veeam-Backup-green?style=for-the-badge&logo=veeam" />
-<img src="https://img.shields.io/badge/Acronis-Cyber%20Protect-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Disaster-Recovery-black?style=for-the-badge" />
-
----
-
-## 🖥️ Virtualization & Servers
-
-<img src="https://img.shields.io/badge/Proxmox-orange?style=for-the-badge&logo=proxmox" />
-<img src="https://img.shields.io/badge/Hyper--V-0078D6?style=for-the-badge&logo=microsoft" />
-<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" />
-<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
----
-
-## 🌐 Networks & Infrastructure
-
-<img src="https://img.shields.io/badge/Mikrotik-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/VPN-Secure-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Firewall-CyberSecurity-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Datacenter-Infrastructure-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cloud-Computing-0ea5e9?style=for-the-badge" />
-
-</div>
-
----
-
-# 📊 GitHub Analytics
+# ⚡ Core Technologies
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tylercanto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylercanto&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img src="https://img.shields.io/badge/Bacula-111827?style=flat-square&logo=buffer&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/Veeam-111827?style=flat-square&logo=veritas&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/Acronis-111827?style=flat-square&logo=atom&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/Proxmox-111827?style=flat-square&logo=proxmox&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/Hyper--V-111827?style=flat-square&logo=windows&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/Mikrotik-111827?style=flat-square&logo=mikrotik&logoColor=00F7FF" />
 
 </div>
 
----
+<br>
 
-# ⚡ Activity
+# 📊 Analytics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tylercanto&theme=tokyonight&hide_border=true&background=00000000" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tylercanto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylercanto&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
----
+<br>
 
-# 🧠 Areas of Expertise
-
-```yaml
-Infrastructure:
-  - Datacenter
-  - Cloud Environment
-  - Enterprise Networks
-  - Monitoring
-  - Remote Support
-
-Backup:
-  - Bacula
-  - Veeam Backup
-  - Acronis
-  - Disaster Recovery
-
-Virtualization:
-  - Proxmox VE
-  - Hyper-V
-  - Virtual Machines
-
-Cybersecurity:
-  - Firewall
-  - VPN
-  - Hardening
-  - Security Analysis
-```
-
----
-
-# 🌎 Connect With Me
+# 🌐 Connect
 
 <div align="center">
 
 <a href="mailto:tylercanto23@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tyler-canto/">
-<img src="https://img.shields.io/badge/LinkedIn-Tyler_Canto-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/tylercanto">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00f7ff&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:00F7FF&height=120&section=footer"/>
 
 </div>
