@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Tyler Canto
+# Tyler Canto
 
 ### Infrastructure • Backup • Datacenter • Cybersecurity
 
@@ -9,22 +9,22 @@
 <br>
 
 <a href="https://tyler-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/_PORTFÓLIO-39FF14?style=for-the-badge&logo=vercel&logoColor=black"/>
+<img src="https://img.shields.io/badge/PORTFÓLIO-161B22?style=for-the-badge&logo=vercel&logoColor=39FF14"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tyler-canto/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
 </a>
 
 <a href="mailto:tylercanto23@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/GMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=39FF14"/>
 </a>
 
 </div>
 
 <br>
 
-#  About Me
+# About Me
 
 ```bash
 [root@datacenter ~]# whoami
@@ -45,20 +45,20 @@ Infrastructure & Cybersecurity Specialist
 
 <br>
 
-#  Professional Focus
+# Professional Focus
 
-💠 Administração de infraestrutura corporativa  
-💠 Soluções de backup enterprise  
-💠 Virtualização e ambientes críticos  
-💠 Monitoramento e suporte técnico remoto  
-💠 Redes corporativas e troubleshooting  
-💠 Cloud, Datacenter e Disaster Recovery  
-💠 Cybersegurança e hardening de ambientes  
-💠 Administração Linux e Windows Server  
+• Administração de infraestrutura corporativa  
+• Soluções de backup enterprise  
+• Virtualização e ambientes críticos  
+• Monitoramento e suporte técnico remoto  
+• Redes corporativas e troubleshooting  
+• Cloud, Datacenter e Disaster Recovery  
+• Cybersegurança e hardening de ambientes  
+• Administração Linux e Windows Server  
 
 <br>
 
-#  Enterprise Backup Stack
+# Enterprise Backup Stack
 
 <p align="left">
 
@@ -71,7 +71,7 @@ Infrastructure & Cybersecurity Specialist
 
 <br>
 
-#  Virtualization & Servers
+# Virtualization & Servers
 
 <p align="left">
 
@@ -85,7 +85,7 @@ Infrastructure & Cybersecurity Specialist
 
 <br>
 
-#  Infrastructure & Networking
+# Infrastructure & Networking
 
 <p align="left">
 
@@ -99,16 +99,16 @@ Infrastructure & Cybersecurity Specialist
 
 <br>
 
-#  Certifications & Learning
+# Certifications & Learning
 
-📜 Cisco Networking Academy — Introduction to Cybersecurity  
-📜 Cisco Networking Academy — Networking Learn-A-Thon 2025  
-📜 Acronis — Intro to Cyber Protect Cloud  
-📜 Acronis — BDR Basic Course  
+Cisco Networking Academy — Introduction to Cybersecurity  
+Cisco Networking Academy — Networking Learn-A-Thon 2025  
+Acronis — Intro to Cyber Protect Cloud  
+Acronis — BDR Basic Course  
 
 <br>
 
-#  Analytics
+# Analytics
 
 <p align="center">
 
@@ -120,7 +120,7 @@ Infrastructure & Cybersecurity Specialist
 
 <br>
 
-#  Bacula Enterprise Console
+# Bacula Enterprise Console
 
 <div align="center">
 
@@ -130,7 +130,7 @@ Infrastructure & Cybersecurity Specialist
 
 <br>
 
-# 🌎 Contact
+# Contact
 
 <p align="center">
 
