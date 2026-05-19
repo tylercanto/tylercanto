@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Tyler Canto
+#   Tyler Canto
 
 ### Infrastructure • Backup • Datacenter • Cybersecurity
 
