@@ -1,6 +1,6 @@
 <div align="center">
 
-#   Tyler Canto
+# 👨‍💻 Tyler Canto
 
 ### Infrastructure • Backup • Datacenter • Cybersecurity
 
@@ -22,9 +22,9 @@
 
 <br>
 
-# ⚡ Enterprise Stack
+## ⚡ Enterprise Stack
 
-## 💾 Backup & Recovery
+### 💾 Backup & Recovery
 
 <p align="left">
 
@@ -34,9 +34,9 @@
 
 </p>
 
----
+<br>
 
-## 🖥️ Virtualization & Servers
+### 🖥️ Virtualization & Servers
 
 <p align="left">
 
@@ -47,9 +47,9 @@
 
 </p>
 
----
+<br>
 
-## 🌐 Infrastructure & Networks
+### 🌐 Infrastructure & Networks
 
 <p align="left">
 
@@ -62,7 +62,7 @@
 
 <br>
 
-# 📊 Analytics
+## 📊 Analytics
 
 <p align="center">
 
@@ -74,7 +74,7 @@
 
 <br>
 
-# 🌎 Contact
+## 🌎 Contact
 
 <p align="center">
 
@@ -90,7 +90,7 @@
 
 <br>
 
-# 💻 Bacula Console
+## 💻 Bacula Console
 
 <div align="center">
 
