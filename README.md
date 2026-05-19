@@ -4,7 +4,7 @@
 
 ### Infrastructure • Backup • Datacenter • Cybersecurity
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&color=39FF14&center=true&vCenter=true&width=1000&lines=Infrastructure+%26+Cybersecurity+Specialist;Backup+%7C+Cloud+%7C+Datacenter;Linux+%7C+Virtualization+%7C+Networks" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00FFC6&center=true&vCenter=true&width=900&lines=Infrastructure+%26+Cybersecurity+Specialist;Backup+%7C+Cloud+%7C+Datacenter;Linux+%7C+Virtualization+%7C+Networks" />
 
 <br>
 
