@@ -184,23 +184,6 @@ Acronis — BDR Basic Course
 
 <br>
 
-<h1 align="center">Interactive Terminal</h1>
-
-```bash
-[root@portfolio ~]# ./start-terminal.sh
-
-Initializing Infrastructure Environment...
-Loading Backup Modules...
-Loading Monitoring Services...
-Connecting Secure VPN...
-Mounting Datacenter Storage...
-System Status: OPERATIONAL
-
-root@portfolio:~#
-```
-
-<br>
-
 <h1 align="center">Contact</h1>
 
 <p align="center">
