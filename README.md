@@ -13,25 +13,37 @@ Backup • Datacenter • Networking • Cybersecurity
 <br><br>
 
 
-<div align="center">
+<table align="center">
+<tr>
+
+<td>
 
 <a href="https://tyler-portfolio-beta.vercel.app">
 <img src="https://img.shields.io/badge/PORTFOLIO-470000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+</td>
+
+
+<td>
 
 <a href="https://github.com/tylercanto/portfolio">
 <img src="https://img.shields.io/badge/PROJECTS-470000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+</td>
+
+
+<td>
 
 <a href="https://www.linkedin.com/in/tyler-canto/">
 <img src="https://img.shields.io/badge/LINKEDIN-470000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+</td>
+
+</tr>
+</table>
 
 
 </div>
@@ -102,70 +114,50 @@ Infrastructure Engineer focused on:
 </h2>
 
 
-### Infrastructure
+<h3>Infrastructure</h3>
 
 ```text
 ◈ Linux
-
 ◈ Windows Server
-
 ◈ Proxmox VE
-
 ◈ Hyper-V
-
 ◈ Docker
-
 ◈ Virtual Machines
 ```
 
 
-### Backup & Disaster Recovery
+<h3>Backup & Disaster Recovery</h3>
 
 ```text
 ◈ Bacula
-
 ◈ Veeam Backup
-
 ◈ Acronis Cyber Protect
-
 ◈ Incremental Backup
-
 ◈ Differential Backup
-
 ◈ Disaster Recovery
-
 ◈ Storage Management
 ```
 
 
-### Networking
+<h3>Networking</h3>
 
 ```text
 ◈ TCP/IP
-
 ◈ VLAN
-
 ◈ VPN
-
 ◈ Firewall
-
 ◈ Mikrotik
-
 ◈ Network Troubleshooting
 ```
 
 
-### Security
+<h3>Security</h3>
 
 ```text
 ◈ Cybersecurity Fundamentals
-
 ◈ Security Monitoring
-
 ◈ Hardening
-
 ◈ Access Control
-
 ◈ Network Defense
 ```
 
@@ -180,6 +172,7 @@ Infrastructure Engineer focused on:
 
 
 Meu portfólio técnico:
+
 
 ```text
 ◈ Infrastructure Projects
@@ -219,19 +212,19 @@ Meu portfólio técnico:
 
 
 ```bash
-[LAB-01] Backup Infrastructure
+[LAB-01] Enterprise Backup Environment
 
 ◈ Bacula Backup Server
 
-◈ Incremental Jobs
+◈ Incremental Backup Jobs
 
 ◈ Remote Storage
 
-◈ Disaster Recovery Testing
+◈ Disaster Recovery Validation
 
 
 
-[LAB-02] Virtualization
+[LAB-02] Virtualization Environment
 
 ◈ Proxmox VE
 
@@ -243,7 +236,7 @@ Meu portfólio técnico:
 
 
 
-[LAB-03] Cybersecurity
+[LAB-03] Cybersecurity Environment
 
 ◈ Firewall Configuration
 
@@ -251,7 +244,7 @@ Meu portfólio técnico:
 
 ◈ Monitoring
 
-◈ System Hardening
+◈ Security Hardening
 ```
 
 
@@ -274,7 +267,7 @@ Cisco Networking Academy
 
 Acronis Academy
 
-◈ Cyber Protect Cloud
+◈ Intro to Cyber Protect Cloud
 
 ◈ Backup & Disaster Recovery Fundamentals
 
@@ -301,7 +294,7 @@ learning@home:
 
 01 ◈ Fortinet Security
 
-02 ◈ Enterprise Backup
+02 ◈ Enterprise Backup Solutions
 
 03 ◈ Network Defense
 
@@ -341,34 +334,34 @@ learning@home:
 </h2>
 
 
-<div align="center">
+<table align="center">
+<tr>
 
+<td>
 
 <a href="mailto:tylercanto23@gmail.com">
-
 <img src="https://img.shields.io/badge/EMAIL-470000?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
-
-&nbsp;&nbsp;
-
-
-<a href="https://www.linkedin.com/in/tyler-canto/">
-
-<img src="https://img.shields.io/badge/LINKEDIN-470000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
+</td>
 
 
-&nbsp;&nbsp;
-
+<td>
 
 <a href="https://github.com/tylercanto">
-
 <img src="https://img.shields.io/badge/GITHUB-470000?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
+</td>
 
-</div>
+
+<td>
+
+<a href="https://www.linkedin.com/in/tyler-canto/">
+<img src="https://img.shields.io/badge/LINKEDIN-470000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
