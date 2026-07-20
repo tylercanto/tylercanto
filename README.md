@@ -369,10 +369,10 @@ Disaster Recovery   : PLANNED
 <div align="center">
 
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tylercanto&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats-tyler.vercel.app/api?username=tylercanto&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff0033&icon_color=ff0033&text_color=ffffff&border_color=ff0033"/>
 
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tylercanto&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-tyler.vercel.app/api/top-langs/?username=tylercanto&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff0033&icon_color=ff0033&text_color=ffffff&border_color=ff0033"/>
 
 
 </div>
