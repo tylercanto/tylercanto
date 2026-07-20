@@ -18,8 +18,10 @@ Backup • Datacenter • Networking • Cybersecurity
 
 <td>
 
-<a href="https://tyler-portfolio-beta.vercel.app">
+<a href="SEU_LINK_PORTFOLIO">
+
 <img src="https://img.shields.io/badge/PORTFOLIO-470000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
 </a>
 
 </td>
@@ -28,7 +30,9 @@ Backup • Datacenter • Networking • Cybersecurity
 <td>
 
 <a href="https://projetos-mu-rose.vercel.app/#projetos">
+
 <img src="https://img.shields.io/badge/PROJECTS-470000?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </td>
@@ -37,7 +41,9 @@ Backup • Datacenter • Networking • Cybersecurity
 <td>
 
 <a href="https://www.linkedin.com/in/tyler-canto/">
+
 <img src="https://img.shields.io/badge/LINKEDIN-470000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 </td>
@@ -114,7 +120,7 @@ Infrastructure Engineer focused on:
 </h2>
 
 
-<h3>Infrastructure</h3>
+### Infrastructure
 
 ```text
 ◈ Linux
@@ -131,7 +137,7 @@ Infrastructure Engineer focused on:
 ```
 
 
-<h3>Backup & Disaster Recovery</h3>
+### Backup & Disaster Recovery
 
 ```text
 ◈ Bacula
@@ -150,7 +156,7 @@ Infrastructure Engineer focused on:
 ```
 
 
-<h3>Networking</h3>
+### Networking
 
 ```text
 ◈ TCP/IP
@@ -167,7 +173,7 @@ Infrastructure Engineer focused on:
 ```
 
 
-<h3>Security</h3>
+### Security
 
 ```text
 ◈ Cybersecurity Fundamentals
@@ -212,7 +218,7 @@ Meu portfólio técnico reúne projetos práticos envolvendo:
 <div align="center">
 
 
-<a href="https://projetos-mu-rose.vercel.app/">
+<a href="https://projetos-mu-rose.vercel.app/#projetos">
 
 <img src="https://img.shields.io/badge/ACCESS_PROJECTS-470000?style=for-the-badge&logo=github&logoColor=white"/>
 
@@ -349,6 +355,27 @@ Security Learning   : RUNNING
 
 Disaster Recovery   : PLANNED
 ```
+
+
+<br>
+
+
+<h2>
+<img src="https://img.shields.io/badge/◈-470000?style=flat-square"/>
+ GitHub Analytics
+</h2>
+
+
+<div align="center">
+
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tylercanto&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylercanto&layout=compact&theme=github_dark&hide_border=true"/>
+
+
+</div>
 
 
 <br>
