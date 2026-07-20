@@ -118,10 +118,15 @@ Infrastructure Engineer focused on:
 
 ```text
 ◈ Linux
+
 ◈ Windows Server
+
 ◈ Proxmox VE
+
 ◈ Hyper-V
+
 ◈ Docker
+
 ◈ Virtual Machines
 ```
 
@@ -130,11 +135,17 @@ Infrastructure Engineer focused on:
 
 ```text
 ◈ Bacula
+
 ◈ Veeam Backup
+
 ◈ Acronis Cyber Protect
+
 ◈ Incremental Backup
+
 ◈ Differential Backup
+
 ◈ Disaster Recovery
+
 ◈ Storage Management
 ```
 
@@ -143,10 +154,15 @@ Infrastructure Engineer focused on:
 
 ```text
 ◈ TCP/IP
+
 ◈ VLAN
+
 ◈ VPN
+
 ◈ Firewall
+
 ◈ Mikrotik
+
 ◈ Network Troubleshooting
 ```
 
@@ -155,9 +171,13 @@ Infrastructure Engineer focused on:
 
 ```text
 ◈ Cybersecurity Fundamentals
+
 ◈ Security Monitoring
+
 ◈ Hardening
+
 ◈ Access Control
+
 ◈ Network Defense
 ```
 
@@ -171,7 +191,7 @@ Infrastructure Engineer focused on:
 </h2>
 
 
-Meu portfólio técnico:
+Meu portfólio técnico reúne projetos práticos envolvendo:
 
 
 ```text
@@ -309,20 +329,26 @@ learning@home:
 
 <h2>
 <img src="https://img.shields.io/badge/◈-470000?style=flat-square"/>
- GitHub Analytics
+ Infrastructure Profile
 </h2>
 
 
-<div align="center">
+```bash
+[root@datacenter ~]# system_status
 
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=tylercanto&show_icons=true&theme=github_dark&hide_border=true"/>
+Infrastructure      : ACTIVE
 
+Backup Operations   : READY
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylercanto&layout=compact&theme=github_dark&hide_border=true"/>
+Virtualization      : ONLINE
 
+Network Operations  : MONITORING
 
-</div>
+Security Learning   : RUNNING
+
+Disaster Recovery   : PLANNED
+```
 
 
 <br>
@@ -340,7 +366,9 @@ learning@home:
 <td>
 
 <a href="mailto:tylercanto23@gmail.com">
+
 <img src="https://img.shields.io/badge/EMAIL-470000?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 </td>
@@ -349,7 +377,9 @@ learning@home:
 <td>
 
 <a href="https://github.com/tylercanto">
+
 <img src="https://img.shields.io/badge/GITHUB-470000?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </td>
@@ -358,7 +388,9 @@ learning@home:
 <td>
 
 <a href="https://www.linkedin.com/in/tyler-canto/">
+
 <img src="https://img.shields.io/badge/LINKEDIN-470000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 </td>
