@@ -7,7 +7,7 @@
 Backup • Datacenter • Networking • Cybersecurity
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=#ff0033&center=true&vCenter=true&width=900&lines=Infrastructure+Engineer;Backup+%26+Disaster+Recovery;Linux+%7C+Virtualization+%7C+Networks;Cybersecurity+%26+Security+Operations"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=ff0033&center=true&vCenter=true&width=900&lines=Infrastructure+Engineer;Backup+%26+Disaster+Recovery;Linux+%7C+Virtualization+%7C+Networks;Cybersecurity+%26+Security+Operations"/>
 
 
 <br><br>
