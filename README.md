@@ -2,13 +2,9 @@
 
 # Tyler Canto
 
-<h3>
-<span style="color:#470000">Infrastructure Engineer</span>
-</h3>
+### ◈ Infrastructure Engineer ◈
 
-<p>
-Backup ◈ Datacenter ◈ Networking ◈ Cybersecurity
-</p>
+Backup • Datacenter • Networking • Cybersecurity
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=470000&center=true&vCenter=true&width=900&lines=Infrastructure+Engineer;Backup+%26+Disaster+Recovery;Linux+%7C+Virtualization+%7C+Networks;Cybersecurity+%26+Security+Operations"/>
@@ -20,19 +16,19 @@ Backup ◈ Datacenter ◈ Networking ◈ Cybersecurity
 <div align="center">
 
 <a href="https://tyler-portfolio-beta.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=470000"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-470000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://github.com/tylercanto/portfolio">
-<img src="https://img.shields.io/badge/Projects-0D1117?style=for-the-badge&logo=github&logoColor=470000"/>
+<img src="https://img.shields.io/badge/PROJECTS-470000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/tyler-canto/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=470000"/>
+<img src="https://img.shields.io/badge/LINKEDIN-470000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -44,9 +40,10 @@ Backup ◈ Datacenter ◈ Networking ◈ Cybersecurity
 <br>
 
 
-<h1>
-<span style="color:#470000">◈</span> About Me
-</h1>
+<h2>
+<img src="https://img.shields.io/badge/◈-470000?style=flat-square"/>
+ About Me
+</h2>
 
 
 ```bash
@@ -69,40 +66,43 @@ Infrastructure Engineer focused on:
 <br>
 
 
-<h1>
-<span style="color:#470000">◈</span> Professional Focus
-</h1>
+<h2>
+<img src="https://img.shields.io/badge/◈-470000?style=flat-square"/>
+ Professional Focus
+</h2>
 
 
-<span style="color:#470000">◈</span> Enterprise Infrastructure
+```text
+◈ Enterprise Infrastructure
 
-<span style="color:#470000">◈</span> Backup & Disaster Recovery
+◈ Backup Enterprise
 
-<span style="color:#470000">◈</span> Server Administration
+◈ Disaster Recovery
 
-<span style="color:#470000">◈</span> Network Operations
+◈ Server Administration
 
-<span style="color:#470000">◈</span> Virtualization Platforms
+◈ Network Operations
 
-<span style="color:#470000">◈</span> Linux & Windows Server
+◈ Virtualization
 
-<span style="color:#470000">◈</span> Cybersecurity Fundamentals
+◈ Linux Administration
 
-<span style="color:#470000">◈</span> Monitoring & Troubleshooting
+◈ Windows Server
+
+◈ Cybersecurity Fundamentals
+```
 
 
 <br>
 
 
-<h1>
-<span style="color:#470000">◈</span> Technology Stack
-</h1>
+<h2>
+<img src="https://img.shields.io/badge/◈-470000?style=flat-square"/>
+ Technology Stack
+</h2>
 
 
-<h3>
-<span style="color:#470000">Infrastructure</span>
-</h3>
-
+### Infrastructure
 
 ```text
 ◈ Linux
@@ -119,10 +119,7 @@ Infrastructure Engineer focused on:
 ```
 
 
-<h3>
-<span style="color:#470000">Backup & Disaster Recovery</span>
-</h3>
-
+### Backup & Disaster Recovery
 
 ```text
 ◈ Bacula
@@ -141,10 +138,7 @@ Infrastructure Engineer focused on:
 ```
 
 
-<h3>
-<span style="color:#470000">Networking</span>
-</h3>
-
+### Networking
 
 ```text
 ◈ TCP/IP
@@ -161,10 +155,7 @@ Infrastructure Engineer focused on:
 ```
 
 
-<h3>
-<span style="color:#470000">Security</span>
-</h3>
-
+### Security
 
 ```text
 ◈ Cybersecurity Fundamentals
@@ -182,24 +173,24 @@ Infrastructure Engineer focused on:
 <br>
 
 
-<h1>
-<span style="color:#470000">◈</span> Projects Portfolio
-</h1>
+<h2>
+<img src="https://img.shields.io/badge/◈-470000?style=flat-square"/>
+ Projects Portfolio
+</h2>
 
 
-Meu portfólio técnico reúne projetos práticos envolvendo:
-
+Meu portfólio técnico:
 
 ```text
-◈ Infrastructure
+◈ Infrastructure Projects
 
-◈ Backup
+◈ Backup Solutions
 
-◈ Networking
+◈ Networking Labs
 
-◈ Virtualization
+◈ Virtualization Environments
 
-◈ Cybersecurity
+◈ Cybersecurity Labs
 
 ◈ Technical Documentation
 ```
@@ -207,11 +198,13 @@ Meu portfólio técnico reúne projetos práticos envolvendo:
 
 <div align="center">
 
+
 <a href="https://github.com/tylercanto/portfolio">
 
-<img src="https://img.shields.io/badge/ACCESS_PROJECTS-470000?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/ACCESS_PROJECTS-470000?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
+
 
 </div>
 
@@ -219,25 +212,26 @@ Meu portfólio técnico reúne projetos práticos envolvendo:
 <br>
 
 
-<h1>
-<span style="color:#470000">◈</span> Infrastructure Labs
-</h1>
+<h2>
+<img src="https://img.shields.io/badge/◈-470000?style=flat-square"/>
+ Infrastructure Labs
+</h2>
 
 
 ```bash
-[LAB-01] Enterprise Backup Environment
+[LAB-01] Backup Infrastructure
 
 ◈ Bacula Backup Server
 
-◈ Incremental Backup Jobs
+◈ Incremental Jobs
 
 ◈ Remote Storage
 
-◈ Disaster Recovery Validation
+◈ Disaster Recovery Testing
 
 
 
-[LAB-02] Virtualization Environment
+[LAB-02] Virtualization
 
 ◈ Proxmox VE
 
@@ -249,7 +243,7 @@ Meu portfólio técnico reúne projetos práticos envolvendo:
 
 
 
-[LAB-03] Cybersecurity Environment
+[LAB-03] Cybersecurity
 
 ◈ Firewall Configuration
 
@@ -257,57 +251,49 @@ Meu portfólio técnico reúne projetos práticos envolvendo:
 
 ◈ Monitoring
 
-◈ Security Hardening
+◈ System Hardening
 ```
 
 
 <br>
 
 
-<h1>
-<span style="color:#470000">◈</span> Certifications & Learning
-</h1>
+<h2>
+<img src="https://img.shields.io/badge/◈-470000?style=flat-square"/>
+ Certifications & Learning
+</h2>
 
 
-<h3>
-<span style="color:#470000">Cisco Networking Academy</span>
-</h3>
+```text
+Cisco Networking Academy
 
 ◈ Introduction to Cybersecurity
 
 ◈ Networking Learn-A-Thon 2025
 
 
-<br>
+Acronis Academy
 
-
-<h3>
-<span style="color:#470000">Acronis Academy</span>
-</h3>
-
-◈ Intro to Cyber Protect Cloud
+◈ Cyber Protect Cloud
 
 ◈ Backup & Disaster Recovery Fundamentals
 
 
-<br>
-
-
-<h3>
-<span style="color:#470000">Fortinet Training</span>
-</h3>
+Fortinet Training
 
 ◈ Cybersecurity Fundamentals
 
 ◈ Network Security Concepts
+```
 
 
 <br>
 
 
-<h1>
-<span style="color:#470000">◈</span> Current Focus
-</h1>
+<h2>
+<img src="https://img.shields.io/badge/◈-470000?style=flat-square"/>
+ Current Focus
+</h2>
 
 
 ```bash
@@ -315,7 +301,7 @@ learning@home:
 
 01 ◈ Fortinet Security
 
-02 ◈ Enterprise Backup Solutions
+02 ◈ Enterprise Backup
 
 03 ◈ Network Defense
 
@@ -328,9 +314,10 @@ learning@home:
 <br>
 
 
-<h1>
-<span style="color:#470000">◈</span> GitHub Analytics
-</h1>
+<h2>
+<img src="https://img.shields.io/badge/◈-470000?style=flat-square"/>
+ GitHub Analytics
+</h2>
 
 
 <div align="center">
@@ -348,9 +335,10 @@ learning@home:
 <br>
 
 
-<h1>
-<span style="color:#470000">◈</span> Contact
-</h1>
+<h2>
+<img src="https://img.shields.io/badge/◈-470000?style=flat-square"/>
+ Contact
+</h2>
 
 
 <div align="center">
@@ -358,27 +346,27 @@ learning@home:
 
 <a href="mailto:tylercanto23@gmail.com">
 
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=470000"/>
+<img src="https://img.shields.io/badge/EMAIL-470000?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 </a>
 
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 
 <a href="https://www.linkedin.com/in/tyler-canto/">
 
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=470000"/>
+<img src="https://img.shields.io/badge/LINKEDIN-470000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </a>
 
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 
 <a href="https://github.com/tylercanto">
 
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=470000"/>
+<img src="https://img.shields.io/badge/GITHUB-470000?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
