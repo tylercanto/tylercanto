@@ -2,14 +2,19 @@
 
 # Tyler Canto
 
-### Infrastructure Engineer
-### Backup ◈ Datacenter ◈ Networking ◈ Cybersecurity
+<h3>
+<span style="color:#470000">Infrastructure Engineer</span>
+</h3>
+
+<p>
+Backup ◈ Datacenter ◈ Networking ◈ Cybersecurity
+</p>
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=470000&center=true&vCenter=true&width=900&lines=Infrastructure+Engineer;Backup+%26+Disaster+Recovery;Linux+%7C+Virtualization+%7C+Networks;Cybersecurity+%26+Security+Operations"/>
 
 
-<br>
+<br><br>
 
 
 <a href="https://tyler-portfolio-beta.vercel.app">
@@ -45,7 +50,9 @@
 <br>
 
 
-# ◈ About Me
+<h1>
+<span style="color:#470000">◈</span> About Me
+</h1>
 
 
 ```bash
@@ -68,35 +75,39 @@ Infrastructure Engineer focused on:
 <br>
 
 
-# ◈ Professional Focus
+<h1>
+<span style="color:#470000">◈</span> Professional Focus
+</h1>
 
 
-◈ Administração de infraestrutura corporativa
+<span style="color:#470000">◈</span> Administração de infraestrutura corporativa
 
-◈ Backup Enterprise e Disaster Recovery
+<span style="color:#470000">◈</span> Backup Enterprise e Disaster Recovery
 
-◈ Virtualização de servidores
+<span style="color:#470000">◈</span> Virtualização de servidores
 
-◈ Redes TCP/IP e troubleshooting
+<span style="color:#470000">◈</span> Redes TCP/IP e troubleshooting
 
-◈ Monitoramento de ambientes críticos
+<span style="color:#470000">◈</span> Monitoramento de ambientes críticos
 
-◈ Linux e Windows Server
+<span style="color:#470000">◈</span> Linux e Windows Server
 
-◈ Segurança de redes
+<span style="color:#470000">◈</span> Segurança de redes
 
-◈ Cloud Infrastructure
+<span style="color:#470000">◈</span> Cloud Infrastructure
 
-◈ Hardening de ambientes
+<span style="color:#470000">◈</span> Hardening de ambientes
 
 
 <br>
 
 
-# ◈ Technology Stack
+<h1>
+<span style="color:#470000">◈</span> Technology Stack
+</h1>
 
 
-## Infrastructure
+### <span style="color:#470000">Infrastructure</span>
 
 
 ```text
@@ -109,7 +120,7 @@ Infrastructure Engineer focused on:
 ```
 
 
-## Backup
+### <span style="color:#470000">Backup & Disaster Recovery</span>
 
 
 ```text
@@ -122,7 +133,7 @@ Infrastructure Engineer focused on:
 ```
 
 
-## Networking
+### <span style="color:#470000">Networking</span>
 
 
 ```text
@@ -135,12 +146,12 @@ Infrastructure Engineer focused on:
 ```
 
 
-## Security
+### <span style="color:#470000">Cybersecurity</span>
 
 
 ```text
-◈ Cybersecurity Fundamentals
-◈ Security Monitoring
+◈ Security Fundamentals
+◈ Monitoring
 ◈ Access Control
 ◈ Hardening
 ◈ Network Defense
@@ -150,7 +161,9 @@ Infrastructure Engineer focused on:
 <br>
 
 
-# ◈ Projects Portfolio
+<h1>
+<span style="color:#470000">◈</span> Projects Portfolio
+</h1>
 
 
 Meu portfólio técnico reúne projetos práticos envolvendo:
@@ -182,7 +195,9 @@ Meu portfólio técnico reúne projetos práticos envolvendo:
 <br>
 
 
-# ◈ Infrastructure Labs
+<h1>
+<span style="color:#470000">◈</span> Infrastructure Labs
+</h1>
 
 
 ```bash
@@ -225,24 +240,28 @@ Meu portfólio técnico reúne projetos práticos envolvendo:
 <br>
 
 
-# ◈ Certifications & Learning
+<h1>
+<span style="color:#470000">◈</span> Certifications & Learning
+</h1>
 
 
-## Cisco Networking Academy
+### <span style="color:#470000">Cisco Networking Academy</span>
 
 ◈ Introduction to Cybersecurity
 
 ◈ Networking Learn-A-Thon 2025
 
 
-## Acronis Academy
+
+### <span style="color:#470000">Acronis Academy</span>
 
 ◈ Intro to Cyber Protect Cloud
 
 ◈ Backup & Disaster Recovery Fundamentals
 
 
-## Fortinet Training
+
+### <span style="color:#470000">Fortinet Training</span>
 
 ◈ Cybersecurity Fundamentals
 
@@ -252,7 +271,9 @@ Meu portfólio técnico reúne projetos práticos envolvendo:
 <br>
 
 
-# ◈ Current Focus
+<h1>
+<span style="color:#470000">◈</span> Current Focus
+</h1>
 
 
 ```bash
@@ -273,7 +294,9 @@ learning@home:
 <br>
 
 
-# ◈ GitHub Analytics
+<h1>
+<span style="color:#470000">◈</span> GitHub Analytics
+</h1>
 
 
 <div align="center">
@@ -291,7 +314,9 @@ learning@home:
 <br>
 
 
-# ◈ Contact
+<h1>
+<span style="color:#470000">◈</span> Contact
+</h1>
 
 
 <div align="center">
