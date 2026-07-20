@@ -18,7 +18,7 @@ Backup • Datacenter • Networking • Cybersecurity
 
 <td>
 
-<a href="SEU_LINK_PORTFOLIO">
+<a href="https://tylerportfolio-mauve.vercel.app/">
 
 <img src="https://img.shields.io/badge/PORTFOLIO-470000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
