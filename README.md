@@ -59,9 +59,11 @@ Backup • Datacenter • Networking • Cybersecurity
 
 
 <h2>
-<img src="https://img.shields.io/badge/◈-470000?style=flat-square"/>
+<img src="https://img.shields.io/badge/◈-ff0033?style=flat-square"/>
  About Me
 </h2>
+
+<hr style="border:0; height:1px; background:#ff0033;">
 
 
 ```bash
