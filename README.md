@@ -390,7 +390,20 @@ Disaster Recovery   : PLANNED
 <br><br>
 
 
-<img src="https://raw.githubusercontent.com/tylercanto/tylercanto/output/github-contribution-grid-snake-dark.svg"/>
+<h2>
+<img src="https://img.shields.io/badge/◈-ff0033?style=flat-square"/>
+ Infrastructure Status
+</h2>
+
+
+```bash
+[root@datacenter ~]# system_status
+
+Backup              : ONLINE
+Virtualization      : ACTIVE
+Networking          : MONITORING
+Cybersecurity       : LEARNING
+Disaster Recovery   : PLANNED
 
 
 </div>
