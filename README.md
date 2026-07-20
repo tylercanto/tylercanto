@@ -17,31 +17,26 @@ Backup ◈ Datacenter ◈ Networking ◈ Cybersecurity
 <br><br>
 
 
+<div align="center">
+
 <a href="https://tyler-portfolio-beta.vercel.app">
-
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat&logo=vercel&logoColor=470000"/>
-
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=470000"/>
 </a>
 
-
-&nbsp;
-
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/tylercanto/portfolio">
-
-<img src="https://img.shields.io/badge/Projects-0D1117?style=flat&logo=github&logoColor=470000"/>
-
+<img src="https://img.shields.io/badge/Projects-0D1117?style=for-the-badge&logo=github&logoColor=470000"/>
 </a>
 
-
-&nbsp;
-
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/tyler-canto/">
-
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat&logo=linkedin&logoColor=470000"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=470000"/>
 </a>
+
+</div>
+
 
 </div>
 
@@ -79,23 +74,21 @@ Infrastructure Engineer focused on:
 </h1>
 
 
-<span style="color:#470000">◈</span> Administração de infraestrutura corporativa
+<span style="color:#470000">◈</span> Enterprise Infrastructure
 
-<span style="color:#470000">◈</span> Backup Enterprise e Disaster Recovery
+<span style="color:#470000">◈</span> Backup & Disaster Recovery
 
-<span style="color:#470000">◈</span> Virtualização de servidores
+<span style="color:#470000">◈</span> Server Administration
 
-<span style="color:#470000">◈</span> Redes TCP/IP e troubleshooting
+<span style="color:#470000">◈</span> Network Operations
 
-<span style="color:#470000">◈</span> Monitoramento de ambientes críticos
+<span style="color:#470000">◈</span> Virtualization Platforms
 
-<span style="color:#470000">◈</span> Linux e Windows Server
+<span style="color:#470000">◈</span> Linux & Windows Server
 
-<span style="color:#470000">◈</span> Segurança de redes
+<span style="color:#470000">◈</span> Cybersecurity Fundamentals
 
-<span style="color:#470000">◈</span> Cloud Infrastructure
-
-<span style="color:#470000">◈</span> Hardening de ambientes
+<span style="color:#470000">◈</span> Monitoring & Troubleshooting
 
 
 <br>
@@ -106,53 +99,82 @@ Infrastructure Engineer focused on:
 </h1>
 
 
-### <span style="color:#470000">Infrastructure</span>
+<h3>
+<span style="color:#470000">Infrastructure</span>
+</h3>
 
 
 ```text
 ◈ Linux
+
 ◈ Windows Server
+
 ◈ Proxmox VE
+
 ◈ Hyper-V
+
 ◈ Docker
+
 ◈ Virtual Machines
 ```
 
 
-### <span style="color:#470000">Backup & Disaster Recovery</span>
+<h3>
+<span style="color:#470000">Backup & Disaster Recovery</span>
+</h3>
 
 
 ```text
 ◈ Bacula
+
 ◈ Veeam Backup
+
 ◈ Acronis Cyber Protect
+
 ◈ Incremental Backup
+
+◈ Differential Backup
+
 ◈ Disaster Recovery
+
 ◈ Storage Management
 ```
 
 
-### <span style="color:#470000">Networking</span>
+<h3>
+<span style="color:#470000">Networking</span>
+</h3>
 
 
 ```text
 ◈ TCP/IP
+
 ◈ VLAN
+
 ◈ VPN
+
 ◈ Firewall
+
 ◈ Mikrotik
+
 ◈ Network Troubleshooting
 ```
 
 
-### <span style="color:#470000">Cybersecurity</span>
+<h3>
+<span style="color:#470000">Security</span>
+</h3>
 
 
 ```text
-◈ Security Fundamentals
-◈ Monitoring
-◈ Access Control
+◈ Cybersecurity Fundamentals
+
+◈ Security Monitoring
+
 ◈ Hardening
+
+◈ Access Control
+
 ◈ Network Defense
 ```
 
@@ -170,23 +192,26 @@ Meu portfólio técnico reúne projetos práticos envolvendo:
 
 ```text
 ◈ Infrastructure
+
 ◈ Backup
+
 ◈ Networking
+
 ◈ Virtualization
+
 ◈ Cybersecurity
+
 ◈ Technical Documentation
 ```
 
 
 <div align="center">
 
-
 <a href="https://github.com/tylercanto/portfolio">
 
-<img src="https://img.shields.io/badge/VIEW_PROJECTS-470000?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/ACCESS_PROJECTS-470000?style=for-the-badge&logo=github&logoColor=ffffff"/>
 
 </a>
-
 
 </div>
 
@@ -244,23 +269,33 @@ Meu portfólio técnico reúne projetos práticos envolvendo:
 </h1>
 
 
-### <span style="color:#470000">Cisco Networking Academy</span>
+<h3>
+<span style="color:#470000">Cisco Networking Academy</span>
+</h3>
 
 ◈ Introduction to Cybersecurity
 
 ◈ Networking Learn-A-Thon 2025
 
 
+<br>
 
-### <span style="color:#470000">Acronis Academy</span>
+
+<h3>
+<span style="color:#470000">Acronis Academy</span>
+</h3>
 
 ◈ Intro to Cyber Protect Cloud
 
 ◈ Backup & Disaster Recovery Fundamentals
 
 
+<br>
 
-### <span style="color:#470000">Fortinet Training</span>
+
+<h3>
+<span style="color:#470000">Fortinet Training</span>
+</h3>
 
 ◈ Cybersecurity Fundamentals
 
@@ -323,27 +358,27 @@ learning@home:
 
 <a href="mailto:tylercanto23@gmail.com">
 
-<img src="https://img.shields.io/badge/Email-0D1117?style=flat&logo=gmail&logoColor=470000"/>
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=470000"/>
 
 </a>
 
 
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 
 <a href="https://www.linkedin.com/in/tyler-canto/">
 
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat&logo=linkedin&logoColor=470000"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=470000"/>
 
 </a>
 
 
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 
 <a href="https://github.com/tylercanto">
 
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=470000"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=470000"/>
 
 </a>
 
