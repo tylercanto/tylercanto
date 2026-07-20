@@ -369,10 +369,22 @@ Disaster Recovery   : PLANNED
 <div align="center">
 
 
-<img height="170" src="https://github-readme-stats-tyler.vercel.app/api?username=tylercanto&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff0033&icon_color=ff0033&text_color=ffffff&border_color=ff0033"/>
+<img height="170" src="https://github-readme-stats-tyler.vercel.app/api?username=tylercanto&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff0033&icon_color=ff0033&text_color=ffffff"/>
 
 
-<img height="170" src="https://github-readme-stats-tyler.vercel.app/api/top-langs/?username=tylercanto&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff0033&icon_color=ff0033&text_color=ffffff&border_color=ff0033"/>
+<img height="170" src="https://github-readme-stats-tyler.vercel.app/api/top-langs/?username=tylercanto&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff0033&icon_color=ff0033&text_color=ffffff"/>
+
+
+<br><br>
+
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tylercanto&background=0d1117&hide_border=true&ring=ff0033&fire=ff0033&currStreakLabel=ff0033&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff"/>
+
+
+<br><br>
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tylercanto&bg_color=0d1117&color=ffffff&line=ff0033&point=ff0033&area=true&hide_border=true"/>
 
 
 </div>
