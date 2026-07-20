@@ -387,7 +387,10 @@ Disaster Recovery   : PLANNED
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tylercanto&bg_color=0d1117&color=ffffff&line=ff0033&point=ff0033&area=true&hide_border=true"/>
 
 
-<br><br>
+</div>
+
+
+<br>
 
 
 <h2>
@@ -399,17 +402,18 @@ Disaster Recovery   : PLANNED
 ```bash
 [root@datacenter ~]# system_status
 
-Backup              : ONLINE
-Virtualization      : ACTIVE
-Networking          : MONITORING
-Cybersecurity       : LEARNING
-Disaster Recovery   : PLANNED
 
+Backup Solutions      : ONLINE
 
-</div>
+Virtualization        : ACTIVE
 
+Network Operations    : MONITORING
 
-<br>
+Cybersecurity         : LEARNING
+
+Disaster Recovery     : PLANNED
+
+Documentation         : AVAILABLE
 
 
 <h2>
