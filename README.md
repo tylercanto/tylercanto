@@ -57,3 +57,79 @@ Infrastructure Engineer focused on:
 ◈ Linux & Windows Servers
 ◈ Cybersecurity
 ◈ Monitoring & Troubleshooting
+
+◈ Linux
+◈ Windows Server
+◈ Proxmox VE
+◈ Hyper-V
+◈ Docker
+◈ Virtual Machines
+
+Backup & Disaster Recovery
+◈ Bacula
+◈ Veeam Backup
+◈ Acronis Cyber Protect
+◈ Incremental Backup
+◈ Differential Backup
+◈ Disaster Recovery
+◈ Storage Management
+
+◈ TCP/IP
+◈ VLAN
+◈ VPN
+◈ Firewall
+◈ Mikrotik
+◈ Network Troubleshooting
+
+Security
+◈ Cybersecurity Fundamentals
+◈ Security Monitoring
+◈ Hardening
+◈ Access Control
+◈ Network Defense
+
+[LAB-01] Enterprise Backup Environment
+◈ Bacula Backup Server
+◈ Incremental Backup Jobs
+◈ Remote Storage
+◈ Disaster Recovery Validation
+
+[LAB-02] Virtualization Environment
+◈ Proxmox VE
+◈ Hyper-V
+◈ Linux Containers
+◈ Network Segmentation
+
+[LAB-03] Cybersecurity Environment
+◈ Firewall Configuration
+◈ VPN Infrastructure
+◈ Monitoring
+◈ Security Hardening
+
+Cisco Networking Academy
+◈ Introduction to Cybersecurity
+◈ Networking Learn-A-Thon 2025
+
+Acronis Academy
+◈ Intro to Cyber Protect Cloud
+◈ Backup & Disaster Recovery Fundamentals
+
+Fortinet Training
+◈ Cybersecurity Fundamentals
+◈ Network Security Concepts
+
+learning@home:
+
+01 ◈ Fortinet Security
+02 ◈ Enterprise Backup Solutions
+03 ◈ Network Defense
+04 ◈ Cloud Infrastructure
+05 ◈ Security Operations
+[root@datacenter ~]# system_status
+
+Infrastructure      : ACTIVE
+Backup Operations   : READY
+Virtualization      : ONLINE
+Network Operations  : MONITORING
+Security Learning   : RUNNING
+Disaster Recovery   : PLANNED
