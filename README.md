@@ -386,6 +386,10 @@ Disaster Recovery   : PLANNED
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tylercanto&bg_color=0d1117&color=ffffff&line=ff0033&point=ff0033&area=true&hide_border=true"/>
 
+<br><br>
+
+<img src="https://raw.githubusercontent.com/tylercanto/tylercanto/output/github-contribution-grid-snake-dark.svg"/>
+
 
 </div>
 
@@ -394,7 +398,7 @@ Disaster Recovery   : PLANNED
 
 
 <h2>
-<img src="https://img.shields.io/badge/◈-470000?style=flat-square"/>
+<img src="https://img.shields.io/badge/◈-ff0033?style=flat-square"/>
  Contact
 </h2>
 
