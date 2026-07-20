@@ -27,7 +27,7 @@ Backup • Datacenter • Networking • Cybersecurity
 
 <td>
 
-<a href="https://github.com/tylercanto/portfolio">
+<a href="https://expert-fishstick-wrrxqv794jq429xvq-8000.app.github.dev/index.html#projetos">
 <img src="https://img.shields.io/badge/PROJECTS-470000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -212,7 +212,7 @@ Meu portfólio técnico reúne projetos práticos envolvendo:
 <div align="center">
 
 
-<a href="https://github.com/tylercanto/portfolio">
+<a href="https://projetos-mu-rose.vercel.app/">
 
 <img src="https://img.shields.io/badge/ACCESS_PROJECTS-470000?style=for-the-badge&logo=github&logoColor=white"/>
 
